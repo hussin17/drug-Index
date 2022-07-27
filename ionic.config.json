@@ -1,0 +1,7 @@
+{
+  "name": "drugIndex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
